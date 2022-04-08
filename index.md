@@ -4,7 +4,7 @@ Testing testing testing
 ## Practicing Basic Syntax
 *Italicized text* followed by **Bolded Text**
 
-[Link] (http://google.com)
+[Link](http://a.com)
 
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpanda&psig=AOvVaw3PX4oeJ2p55zMnP9XPmroj&ust=1649517221368000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDJ9dLghPcCFQAAAAAdAAAAABAF)
 
