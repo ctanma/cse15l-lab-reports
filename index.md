@@ -27,3 +27,7 @@ A whole block of
 text
 experiment funfun
 ```
+
+---
+## This part is being edited through VSCode
+*I will now proceed to go back onto Github Desktop bye*
