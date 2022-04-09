@@ -1,4 +1,5 @@
-
+# Lab Report 2
+---
 1.**Installing VScode**
 ![Image](labreport1step1.PNG)
 
