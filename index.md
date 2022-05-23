@@ -1,33 +1,14 @@
-Testing testing testing
 
-# CSE 15L Week 2 Lab
-## Practicing Basic Syntax
-*Italicized text* followed by **Bolded Text**
+# CSE 15L Lab Reports
 
-[Link](http://a.com)
+## **Link to lab reports**
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpanda&psig=AOvVaw3PX4oeJ2p55zMnP9XPmroj&ust=1649517221368000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDJ9dLghPcCFQAAAAAdAAAAABAF)
+[Lab Report 1](https://ctanma.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
->This is what blockquote does.
+[Lab Report 2](https://ctanma.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
-* #1
-* #2
-* #3
+[Lab Report 3](https://ctanma.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
-1. #3
-2. #2
-3. #1
+[Lab Report 4](https://ctanma.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
 
----
-`Blocky text`
-
-```
-A whole block of 
-text
-experiment funfun
-```
-
----
-## This part is being edited through VSCode
-*I will now proceed to go back onto Github Desktop bye*
