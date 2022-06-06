@@ -7,7 +7,7 @@ Using vimdiff allowed for me to find the differences between the two files. I ha
 # Test file #194
 For test file #194. Here are the outputs given by both implementations (my personal implementation on the left and the given implementation on the right).
 
-![results](194difference.PNG)
+![results](194difference.png)
 
 And down below is the expected results.
 
@@ -21,7 +21,7 @@ Looking at the implementation given, we find that the actual results was produce
 #Test file #481
 For the test file #481. Here are the outputs given by both implementations (my personal implementation on the left and the given implementation on the right).
 
-![results](481difference.PNG)
+![results](481difference.png)
 
 And down below is the expected results.
 
